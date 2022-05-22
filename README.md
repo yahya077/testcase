@@ -33,7 +33,7 @@ setup db configuration in .env
 update Homestead.yaml with;
 
     - map: testcase.yahya
-      to: /home/vagrant/backend/testcase/public
+      to: /home/vagrant/code/testcase/public
 
 sudo nano /etc/hosts
 
