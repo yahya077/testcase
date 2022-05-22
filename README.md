@@ -76,4 +76,6 @@ Mainly all the logic in `testcase/custom` folder.
 ## Adding new Provider
 
 There is only three things you have to do. First, setup `config/custom.php`.
-Second, Add your provider model as it is. You can use other provider models as example.
+Second, Add your provider model as it is. You can use other provider models as example. Third, add the controller.
+Literally we don't have to add many controllers for every providers but I wanted to show how to use traits in the project.
+So I make it two controller for looks like it is required :)
